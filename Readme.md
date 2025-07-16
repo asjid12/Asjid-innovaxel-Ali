@@ -7,3 +7,5 @@ git add .
 git commit -m "Create API route for URL shortening (backend)"
 git add .
 git commit -m "Implement logic to generate short URL (backend)"
+git add .
+git commit -m "Return short URL to frontend (backend)"
