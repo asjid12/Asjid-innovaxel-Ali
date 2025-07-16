@@ -17,3 +17,6 @@ git add .
 git commit -m "Add frontend logic to fetch and display URL stats"
 git add .
 git commit -m "Add ability to update short URL (backend)"
+git add .
+git commit -m "Update README.md with setup instructions"
+git 
