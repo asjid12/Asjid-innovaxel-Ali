@@ -9,3 +9,5 @@ git add .
 git commit -m "Implement logic to generate short URL (backend)"
 git add .
 git commit -m "Return short URL to frontend (backend)"
+git add .
+git commit -m "Add redirect logic for short URL (backend)"
