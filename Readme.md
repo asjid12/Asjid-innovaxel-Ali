@@ -13,3 +13,5 @@ git add .
 git commit -m "Add redirect logic for short URL (backend)"
 git add .
 git commit -m "Implement stats API route for short URL (backend)"
+git add .
+git commit -m "Add frontend logic to fetch and display URL stats"
