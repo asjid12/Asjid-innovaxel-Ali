@@ -19,4 +19,5 @@ git add .
 git commit -m "Add ability to update short URL (backend)"
 git add .
 git commit -m "Update README.md with setup instructions"
-git 
+git git add .
+git commit -m "Return short URL to frontend (backend)"
