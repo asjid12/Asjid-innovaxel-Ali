@@ -5,3 +5,5 @@ Add form to take long URL input (frontend)"git add .
 git commit -m "Implement frontend logic to submit long URL to backend"
 git add .
 git commit -m "Create API route for URL shortening (backend)"
+git add .
+git commit -m "Implement logic to generate short URL (backend)"
